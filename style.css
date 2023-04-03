@@ -19,3 +19,7 @@ input[type=text]:focus{
 .serach input:placeholder{
     color: #fff;
 }
+
+.filtered{
+    display: none!important;
+}
