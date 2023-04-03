@@ -16,3 +16,6 @@ input[type=text]:focus{
 .delete{
     cursor: pointer;
 }
+.serach input:placeholder{
+    color: #fff;
+}
